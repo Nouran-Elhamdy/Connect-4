@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f474e5d43e71a1448a763cf1073d513b, type: 3}
+  m_Name: PlayerAvatars
+  m_EditorClassIdentifier: 
+  playerAvatars:
+  - {fileID: 21300000, guid: 65fc9b1333e5b2747a045b2b35476652, type: 3}
+  - {fileID: 21300000, guid: bd32213eda8fb6e409d4e194ce48defa, type: 3}
+  - {fileID: 21300000, guid: e3100f5c12c39564b832c0eb5e043735, type: 3}
+  - {fileID: 21300000, guid: 37dd501920af113439e909eb1ec4c8ea, type: 3}
+  - {fileID: 21300000, guid: 263a2d4e0f16d10489f3871d17152669, type: 3}
+  - {fileID: 21300000, guid: fd963fc7abc5ae547895392056cd99bb, type: 3}
+  - {fileID: 21300000, guid: bd0116a75ad0bbc4997ba2aad3a579f7, type: 3}
+  - {fileID: 21300000, guid: ef9ea9a37f0f218489e90b5660d0891c, type: 3}
